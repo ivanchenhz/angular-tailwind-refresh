@@ -1,0 +1,12 @@
+{
+  "color": {
+    "SystemColorWindowTextColor": "CanvasText",
+    "SystemColorHotlightColor": "LinkText",
+    "SystemColorGrayTextColor": "GrayText",
+    "SystemColorHighlightTextColor": "HighlightText",
+    "SystemColorHighlightColor": "Highlight",
+    "SystemColorButtonTextColor": "ButtonText",
+    "SystemColorButtonFaceColor": "ButtonFace",
+    "SystemColorWindowColor": "Canvas"
+  }
+}
